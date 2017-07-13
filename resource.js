@@ -31,7 +31,7 @@ window.resource = {
     {
         logo : 
         {
-            src : 'images/logo.png',
+            src : 'images/nist_logo_reverse.svg',
             width: '125px',
             height: '35px'
         },
